@@ -397,7 +397,7 @@ export function WagoutCaseStudy() {
           <div className="wg-hero-grid">
             <div>
               <p className="eyebrow">00 / UX case study — dog rental &amp; adoption platform</p>
-              <h1>Wagout — Rent a shelter dog. <em>Fall for one.</em></h1>
+              <h1>Wagout — Walk a shelter dog. <em>Fall for one.</em></h1>
               <p className="wg-hero-lede">An end-to-end UX case study for a mobile app that lets people in urban India spend a few hours walking a shelter dog — with adoption as the natural next step, not the first one.</p>
             </div>
             <dl className="wg-meta">

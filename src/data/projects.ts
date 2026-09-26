@@ -56,7 +56,7 @@ export const projects: Project[] = [
     tag: 'Dog rental & adoption / mobile app',
     year: '2026',
     role: 'UX/UI Designer · Solo project',
-    intro: 'Rent a shelter dog for a walk. Fall for one. Take it home.',
+    intro: 'One walk could change two lives',
     problem: 'Adoption in India is treated as an all-or-nothing decision — there\u2019s no low-stakes way to spend real time with a dog before committing to years of care.',
     approach: 'Reframe adoption as a journey, not a form: let people book a few hours with a shelter dog first, then time the adopt and gift prompts to the emotional peak right after drop-off, not before.',
     outcome: 'A 26-screen mobile case study spanning research, IA, three core flows and a hi-fi design system, with two identified trust dips shaping every major screen.',
