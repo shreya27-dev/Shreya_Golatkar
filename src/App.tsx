@@ -397,7 +397,7 @@ const doctorTradeoffs = [
 ];
 
 function DoctorBookingCaseStudy({ project }: { project: Project }) {
-  const img = (name: string) => `/public/assets/work/doctor-booking/${name}`;
+  const img = (name: string) => `/assets/work/doctor-booking/${name}`;
 
   return (
     <main className="page-in doctor-case-study">
