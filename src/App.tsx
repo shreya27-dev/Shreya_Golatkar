@@ -192,17 +192,17 @@ function About() {
           <div className="about-photos">
             <div className="about-photo about-photo-main">
               <span className="about-photo-label">
-                <img src="/public/images/Portrait-Photo.png" alt="Shreya's Life" />
+                <img src="/images/Portrait-Photo.png" alt="Shreya's Life" />
               </span>
             </div>
             <div className="about-photo about-photo-sub">
               <span className="about-photo-label">
-                <img src="/public/images/photo-1.jpeg" alt="Shreya's Life" />
+                <img src="/images/photo-1.jpeg" alt="Shreya's Life" />
               </span>
             </div>
             <div className="about-photo about-photo-sub">
               <span className="about-photo-label">
-                <img src="/public/images/photo-2.jpeg" alt="Shreya's Life" />
+                <img src="/images/photo-2.jpeg" alt="Shreya's Life" />
               </span>
             </div>
           </div>
@@ -216,8 +216,6 @@ function About() {
         </div>
         <div className="experience-row"><span>UI UX Designer & Angular Dev</span><span>Kemar Port Automation</span><span>2026—Present</span></div>
         <div className="experience-row"><span>UI UX Designer & Developer</span><span>Mahity Systems Ltd.</span><span>2024—2026</span></div>
-        {/* <div className="experience-row"><span>UI & UX Designer</span><span>HoloSuit</span><span>2021</span></div>
-        <div className="experience-row"><span>Design Intern</span><span>Adidas Originals</span><span>2017</span></div> */}
       </Reveal>
 
       <RevealGroup className="about-grid">
