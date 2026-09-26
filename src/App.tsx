@@ -176,7 +176,7 @@ function About() {
         <Reveal>
           <div className="about-copy">
             <span className="about-badge">
-              <img src="/public/images/Shreya.png" alt="It's Shreya illustration" />
+              <img src="/images/Shreya.png" alt="It's Shreya illustration" />
             </span>
             <span className="eyebrow">A little context</span>
             <h1>Hi, I'm<br /><em>Shreya.</em></h1>
