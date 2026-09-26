@@ -45,7 +45,7 @@ export const projects: Project[] = [
     approach: 'I made the user’s problem the front door: search in plain language, resolve the likely specialist, surface relevant doctors, expose decision-making details and place family booking inside the final flow.',
     outcome: 'A focused appointment journey that reduces uncertainty one decision at a time — from problem to specialist to doctor to slot to confirmation.',
     accent: 'teal',
-    image: '/public/assets/work/doctor-booking/Doctor Cover Page.png',
+    image: '/public/assets/work/doctor-booking/doctor_cover_page.png',
     externalUrl: 'https://github.com/shreya27-dev/portfolio-shreya',
   },
   {
